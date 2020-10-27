@@ -4,4 +4,4 @@ echo Test
 
 echo Hallo Welt
 
-echo Test2
+exit 0
