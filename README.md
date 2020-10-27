@@ -1,3 +1,5 @@
 # Git Workshop
 
-Hallo
+Hallo Welt.
+
+Heute ist ein Dienstag
